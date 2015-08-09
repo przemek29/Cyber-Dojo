@@ -1,0 +1,4 @@
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb

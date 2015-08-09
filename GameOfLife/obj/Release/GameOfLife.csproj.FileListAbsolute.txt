@@ -1,0 +1,8 @@
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\GameOfLife\bin\Release\GameOfLife.dll
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\GameOfLife\obj\Release\GameOfLife.dll
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\GameOfLife\obj\Release\GameOfLife.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.dll
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb

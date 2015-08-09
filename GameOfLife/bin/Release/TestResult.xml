@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\DOMINIKA\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.dll" total="35" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-08-09" time="20:07:05">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\DOMINIKA\Desktop\NUnit-2.6.4\bin" machine-name="PRZEMEK-PC" user="DOMINIKA" user-domain="PRZEMEK-PC" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite type="Assembly" name="C:\Users\DOMINIKA\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.dll" executed="True" result="Success" success="True" time="0.255" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="GameOfLifeTests" executed="True" result="Success" success="True" time="0.234" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CellTests" executed="True" result="Success" success="True" time="0.059" asserts="0">
+            <results>
+              <test-case name="GameOfLifeTests.CellTests.InputCurrentStateTrueShouldReturnTrue" executed="True" result="Success" success="True" time="0.040" asserts="1" />
+              <test-case name="GameOfLifeTests.CellTests.ShouldCorrectlyChangeNextStateToCurrentState" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.CellTests.ShouldCorrectlyReturnFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="GameOfLifeTests" executed="True" result="Success" success="True" time="0.032" asserts="0">
+            <results>
+              <test-case name="GameOfLifeTests.GameOfLifeTests.BeaconExample" executed="True" result="Success" success="True" time="0.011" asserts="1" />
+              <test-case name="GameOfLifeTests.GameOfLifeTests.BlinkerExample" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.GameOfLifeTests.CyclicSetUpShouldBeTheSameAfter3Periods" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.GameOfLifeTests.SimpleAsymetricExample" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.GameOfLifeTests.StaticBeehiveExample" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.GameOfLifeTests.StaticBlockExample" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.GameOfLifeTests.StaticBoatExample" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.GameOfLifeTests.StaticLoafExample" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.GameOfLifeTests.ToadExample" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="ParserTests" executed="True" result="Success" success="True" time="0.036" asserts="0">
+            <results>
+              <test-case name="GameOfLifeTests.ParserTests.CheckThe2D_InputString" executed="True" result="Success" success="True" time="0.003" asserts="6" />
+              <test-case name="GameOfLifeTests.ParserTests.CheckTheChangeOfSignToBool" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="GameOfLifeTests.ParserTests.CheckTheEmptyInputString" executed="True" result="Success" success="True" time="0.009" asserts="0" />
+              <test-case name="GameOfLifeTests.ParserTests.CheckTheIrregularInputString" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="GameOfLifeTests.ParserTests.CheckTheSizeOfResultBoolString" executed="True" result="Success" success="True" time="0.005" asserts="2" />
+              <test-case name="GameOfLifeTests.ParserTests.CheckTheTypicalInput" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+              <test-case name="GameOfLifeTests.ParserTests.CheckTheWrongSign" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="RuleFourTests" executed="True" result="Success" success="True" time="0.005" asserts="0">
+            <results>
+              <test-case name="GameOfLifeTests.RuleFourTests.Example1" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.RuleFourTests.Example2" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="RuleOneTests" executed="True" result="Success" success="True" time="0.007" asserts="0">
+            <results>
+              <test-case name="GameOfLifeTests.RuleOneTests.Example1" executed="True" result="Success" success="True" time="0.002" asserts="4" />
+              <test-case name="GameOfLifeTests.RuleOneTests.Example2" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="RuleThreeTests" executed="True" result="Success" success="True" time="0.005" asserts="0">
+            <results>
+              <test-case name="GameOfLifeTests.RuleThreeTests.Example1" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+              <test-case name="GameOfLifeTests.RuleThreeTests.Example2" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="RuleTwoTests" executed="True" result="Success" success="True" time="0.005" asserts="0">
+            <results>
+              <test-case name="GameOfLifeTests.RuleTwoTests.Example1" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.RuleTwoTests.Example2" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TablePrinterTests" executed="True" result="Success" success="True" time="0.004" asserts="0">
+            <results>
+              <test-case name="GameOfLifeTests.TablePrinterTests.CheckThePrintString" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="GameOfLifeTests.TablePrinterTests.CheckTheTypicalBoolTable" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TableTests" executed="True" result="Success" success="True" time="0.018" asserts="0">
+            <results>
+              <test-case name="GameOfLifeTests.TableTests.CheckDimensionsOfEmptyTable" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="GameOfLifeTests.TableTests.CheckDimensionsOfNoneEmptyTable" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="GameOfLifeTests.TableTests.CheckTheTypicalBoolTable" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="GameOfLifeTests.TableTests.ShouldReturnAllCells" executed="True" result="Success" success="True" time="0.002" asserts="6" />
+              <test-case name="GameOfLifeTests.TableTests.ShouldReturnCorrectlyItem" executed="True" result="Success" success="True" time="0.002" asserts="6" />
+              <test-case name="GameOfLifeTests.TableTests.ShouldReturnCorrectNumbersOfNeighbours" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
